@@ -59,5 +59,12 @@ div{
 h1 h2{
 	color: #243f84;
 	text-transform: uppercase;
-	
+
 }
+table{
+	text-align: center;
+	margin: 0 auto;
+	padding: 0%;
+	width: 80%;
+}
+tr
