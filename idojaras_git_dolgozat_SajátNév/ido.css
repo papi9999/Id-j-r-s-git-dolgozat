@@ -77,3 +77,7 @@ tr td{
 	font-weight: bold;
 	text-decoration: none;
 }
+li{
+	list-style-image: url(nap.png);
+	margin: 10%;
+}
