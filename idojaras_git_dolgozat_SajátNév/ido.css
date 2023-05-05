@@ -67,4 +67,6 @@ table{
 	padding: 0%;
 	width: 80%;
 }
-tr
+tr td{
+	border: 3px solid black;
+}
